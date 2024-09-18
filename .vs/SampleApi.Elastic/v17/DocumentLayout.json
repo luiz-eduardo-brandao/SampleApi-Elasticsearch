@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\edu\\studies\\SampleApi.Elastic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\configuration\\elasticsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\configuration\\elasticsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\services\\elasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\services\\ielasticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|c:\\edu\\studies\\sampleapi.elastic\\sampleapi.elastic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14363EE0-9879-4765-9414-3B3E8EA191D1}|SampleApi.Elastic\\SampleApi.Elastic.csproj|solutionrelative:sampleapi.elastic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:13:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:13:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\appsettings.json",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\appsettings.json",
+              "RelativeToolTip": "SampleApi.Elastic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T22:11:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Program.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Program.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Program.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:10:44.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElasticSettings.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Configuration\\ElasticSettings.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Configuration\\ElasticSettings.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Configuration\\ElasticSettings.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Configuration\\ElasticSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:57:57.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElasticService.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Services\\ElasticService.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Services\\ElasticService.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Services\\ElasticService.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Services\\ElasticService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:55:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IElasticService.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Services\\IElasticService.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Services\\IElasticService.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Services\\IElasticService.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Services\\IElasticService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:55:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SampleApi.Elastic\\Models\\User.cs",
+              "ToolTip": "C:\\edu\\studies\\SampleApi.Elastic\\SampleApi.Elastic\\Models\\User.cs",
+              "RelativeToolTip": "SampleApi.Elastic\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:54:20.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
